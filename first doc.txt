@@ -1,0 +1,2 @@
+Hi. This is my first document while learning git.
+Date today is march 2 2017.
